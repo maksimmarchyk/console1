@@ -11,6 +11,7 @@ namespace console1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Соси хуй");
         }
     }
 }
